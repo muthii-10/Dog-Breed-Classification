@@ -1,6 +1,6 @@
 # Dog Breed Classification Project
 
-This project classifies pet images as dogs or not dogs, and further identifies the breed of the dog. It uses various scripts for preprocessing, classification, and result evaluation.
+In this project, I utilized a pretrained classifier developed by Jennifer S., which was trained on 1000 images to identify dog breeds. My role involved writing Python scripts that classified 40 pet images as either dogs or not dogs, and further identified the breed of the dog. I implemented and evaluated the performances of three prominent neural network architectures—AlexNet, VGG, and ResNet—calculating and printing the classification results for each model.
 
 ## Table of Contents
 
@@ -8,13 +8,12 @@ This project classifies pet images as dogs or not dogs, and further identifies t
 - [Files and Scripts](#files-and-scripts)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
 
-This project involves a series of steps to classify images of pets. It includes image preprocessing, label extraction, and classification using a pre-trained model. The results are adjusted, and statistics are calculated to evaluate the model's performance.
+This project focuses on classifying pet images through a series of steps, including image preprocessing, label extraction, and classification using a pretrained model. The classification involves evaluating multiple neural network architectures (AlexNet, VGG, ResNet). After classification, the results are refined, and key performance statistics are calculated to assess the accuracy and effectiveness of each model.
 
 ## Files and Scripts
 
@@ -55,7 +54,7 @@ To set up and run this project locally, follow these steps:
     sh run_models_batch.sh
     ```
 
-## Licensing
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
