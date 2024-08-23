@@ -55,22 +55,7 @@ To set up and run this project locally, follow these steps:
     sh run_models_batch.sh
     ```
 
-
-
-## Contributing
-
-We welcome contributions to this project! If you have suggestions for improvements or new features, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-Please ensure your code adheres to our coding guidelines and includes relevant tests.
-
-## License
-
+## Licensing
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
