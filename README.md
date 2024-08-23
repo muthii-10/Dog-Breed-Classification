@@ -49,7 +49,7 @@ To set up and run this project locally, follow these steps:
     
 ## Usage
 
- **Classify images**:
+ **Classify images and Print Results**:
     ```bash
     sh run_models_batch.sh
     ```
