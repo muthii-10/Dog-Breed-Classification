@@ -43,7 +43,11 @@ To set up and run this project locally, follow these steps:
     git clone https://github.com/muthii-10/dog-breed-classification.git
     cd dog-breed-classification
     ```
-
+2. **Install Requirements**:
+   ```
+   pip install -r requirements.txt
+   ```
+    
 ## Usage
 
  **Classify images**:
